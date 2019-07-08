@@ -5,7 +5,6 @@ i want to change
 hello world github
 pull request
 !!!!
-add
 
 ！git branch
 Creating a new branch is quick AND simple.
